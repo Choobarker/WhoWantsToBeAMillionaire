@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Tue Jul 30 18:48:42 NZST 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.13.1.1 - (1765088): instance a816c00e-016c-41a3-6303-00000e75f7b8 
+on database directory D:\2. Uni\Y2 S1\Program Design and Construction\New folder\PDC_Assignment\GameDB with class loader sun.misc.Launcher$AppClassLoader@5c647e05 
+Loaded from file:/D:/2.%20Uni/Y2%20S1/Program%20Design%20and%20Construction/New%20folder/PDC_Assignment/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_201-b09
+user.dir=D:\2. Uni\Y2 S1\Program Design and Construction\New folder\PDC_Assignment
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
